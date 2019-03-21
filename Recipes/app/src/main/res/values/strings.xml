@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Easy Cook Book</string>
+    <!-- Common -->
+    <string name="btnEdit">Edit</string>
+    <string name="email">Email</string>
+    <string name="phone">1234567890</string>
+
+    <!-- Login -->
+    <string name="etUsername">Username</string>
+    <string name="etPassword">Password</string>
+    <string name="ckRemember">Remember Me</string>
+    <string name="btnLogin">Login</string>
+
+    <!-- Register -->
+    <string name="register">Register</string>
+    <string name="etConfirmPassword">Confirm Password</string>
+
+    <!-- Main -->
+    <string name="tvUsername">Username</string>
+
+    <!-- Menu -->
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+    <string name="main">Home</string>
+    <string name="account">Account</string>
+    <string name="recipe">Recipe</string>
+    <string name="forum">Forum</string>
+    <string name="about">About Us</string>
+    <string name="communicate">Communicate</string>
+    <string name="logout">Logout</string>
+    <string name="share">Share</string>
+    <string name="img_description">Cook logo</string>
+    <string name="easy_cook_book">Easy Cook Book ©</string>
+
+    <!-- Recipe -->
+    <string name="recipeTitle">Recipe Title</string>
+    <string name="recipeDetail">Recipe Detail</string>
+    <string name="btnRate">Rate</string>
+
+    <!-- Forum -->
+    <string name="title">Title</string>
+    <string name="detail">Detail</string>
+    <string name="date">Date</string>
+    <string name="btnAddForum">Add</string>
+    <string name="btnViewList">View List</string>
+    <string name="btnDeleteForum">Delete</string>
+    <string name="search">Search</string>
+
+    <!-- About -->
+    <string name="tvName">Name</string>
+    <string name="tvName1">Jeongah Jin</string>
+    <string name="tvName2">Maziar Modarresi</string>
+    <string name="tvName3">Erfan Khaksar</string>
+    <string name="tvLocation">Location</string>
+    <string name="btnMap">Map</string>
+    <string name="mapAPI">AIzaSyCZUD6-CCtcMzD1LJtVVslYr2xgPEv4KFE</string>
+
+</resources>
