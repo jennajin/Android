@@ -1,6 +1,4 @@
-# Mobile
-
-## Recipe Application
+# Recipe Application using Android
 
 `Android` `SQLite`
 
